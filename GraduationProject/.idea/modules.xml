@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoPro.iml" filepath="$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoServer/CivilAviationInfoServer.iml" filepath="$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoServer/CivilAviationInfoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoSpider/CivilAviationInfoSpider.iml" filepath="$PROJECT_DIR$/CivilAviationInfoPro/CivilAviationInfoSpider/CivilAviationInfoSpider.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-avalon/forger/forger.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-avalon/forger/forger.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-admin/webmagic-admin.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-admin/webmagic-admin.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-avalon.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-avalon.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-avalon-common/webmagic-avalon-common.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-avalon-common/webmagic-avalon-common.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-core/webmagic-core.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-core/webmagic-core.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-extension/webmagic-extension.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-extension/webmagic-extension.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-parent.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-parent.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-samples/webmagic-samples.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-samples/webmagic-samples.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-saxon/webmagic-saxon.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-saxon/webmagic-saxon.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-scripts/webmagic-scripts.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-scripts/webmagic-scripts.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-selenium/webmagic-selenium.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-selenium/webmagic-selenium.iml" />
+      <module fileurl="file://G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-worker/webmagic-worker.iml" filepath="G:/java代码/webmagic/webmagic-master/webmagic-avalon/webmagic-worker/webmagic-worker.iml" />
+    </modules>
+  </component>
+</project>
