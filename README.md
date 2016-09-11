@@ -33,4 +33,4 @@ IDE：Intellij IDEA 2016.1.1
 
 服务端代码位于：Project/CivilAviationInfoPro/CivilAviationInfoServer
 
-客户端代码位于：Project/SimpleNews-master
+客户端代码位于：Project/Client
